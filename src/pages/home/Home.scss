@@ -1,0 +1,22 @@
+.Home{
+    .collection{
+        margin-top: 80px;
+
+        .info{
+            text-align: center;
+            margin-bottom: 20px;
+            .subheading{
+            margin-top: 10px;
+            }
+        }
+        .content{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            row-gap: 40px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            column-gap: 20px;
+        }
+    }
+}
