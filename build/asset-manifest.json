@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-cart-client/static/css/main.d012bf44.css",
+    "main.js": "/e-cart-client/static/js/main.68b85fbd.js",
+    "static/media/banner.jpeg": "/e-cart-client/static/media/banner.bff1c72d8182997c517b.jpeg",
+    "static/media/naruto.jpeg": "/e-cart-client/static/media/naruto.50fefc513dbce4e1716d.jpeg",
+    "static/media/poster.jpeg": "/e-cart-client/static/media/poster.a037f50c22c7dca45693.jpeg",
+    "static/media/creditcardicons.png": "/e-cart-client/static/media/creditcardicons.8ea9fa69856f315a9267.png",
+    "index.html": "/e-cart-client/index.html",
+    "main.d012bf44.css.map": "/e-cart-client/static/css/main.d012bf44.css.map",
+    "main.68b85fbd.js.map": "/e-cart-client/static/js/main.68b85fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d012bf44.css",
+    "static/js/main.68b85fbd.js"
+  ]
+}
